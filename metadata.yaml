@@ -1,0 +1,44 @@
+_repo: The-Engineer_67343
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederik George, Jr.
+    - MacCreigh, James
+    - Pohl, Frederick
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+  - agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Eisner, Simon
+    - Kornbluth, Cyril M.
+    - Cooke, Arthur
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: https://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67343'
+language: en
+pgterms:marc905: 20211107120143pohl
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Engineer
+url: http://www.gutenberg.org/ebooks/67343
